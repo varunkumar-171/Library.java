@@ -1,0 +1,20 @@
+Alex Rider:Anthony Horowitz:1:true:
+Harry Potter:J.K Rowling:2:true:
+Percy Jackson:Rick Riordan:3:true:
+Alice in Wonderland:Lewis Caroll:4:true:
+Artemis Fowl:Eoin Colfer:5:true:
+The Bartimaeus Trilogy:Jonathan Stroud:6:true:
+Fablehaven:Brandon Mull:7:true:
+The BFG:Roald Dahl:8:true:
+Chronicles of Narnia:C.S Lewis:9:true:
+Eragon:Christopher Paolini:10:true:
+Eldest:Christopher Paolini:11:true:
+Fantastic Beasts and Where to Find Them:J.K. Rowling:12:true:
+The Hobbit:J. R. R. Tolkien:13:true:
+The Hunger Games:Suzanne Collins:14:true:
+Inkheart:Cornelia Funke:15:true:
+Septimus Heap:Angie Sage:16:true:
+Song of Ice and Fire series:George R. R. Martin:17:true:
+The Spiderwick Chronicles:Holly Black:18:true:
+The Twilight series:Stephenie Meyer:19:true:
+The Secrets of the Immortal Nicholas Flamel:Michael Scott:20:true:

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=UserList()
+comment1.params=u
+comment1.target=boolean\ addUser(User)
+comment2.params=userID
+comment2.target=int\ findUser(int)
+comment2.text=\r\n\ Finds\ and\ returns\ the\ index\ of\ the\ particular\ user\ \r\n
+comment3.params=u
+comment3.target=boolean\ deleteUser(User)
+comment3.text=\r\n\ Deletes\ the\ User\ at\ the\ particular\ index\ and\ makes\ that\ index\ as\ null\ \r\n
+comment4.params=
+comment4.target=void\ printAllUsers()
+comment4.text=\r\n\ This\ Method\ prints\ the\ list\ of\ users\ int\ he\ array\ allUsersp[]\r\n
+comment5.params=num
+comment5.target=void\ printName(int)
+comment6.params=pw
+comment6.target=void\ storeAllUsers(java.io.PrintWriter)
+comment6.text=\r\n\ Stores\ the\ all\ the\ users\ in\ the\ allUsers[]\ array\ \r\n
+comment7.params=num
+comment7.target=User\ getUser(int)
+comment7.text=\r\n\ Returns\ the\ User\ at\ the\ particular\ index\ \r\n
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+comment8.text=\r\n\ Test\ Harness\r\n
+numComments=9
